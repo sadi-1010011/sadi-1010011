@@ -1,5 +1,5 @@
-- 👋 Hi, I’m sadiq
-- 👀 I’m interested in combined usage of software and hardware technologies
+- 👋 Hi, I’m sadi_q
+- 👀 I’m interested in collaborated working of software and hardware technologies
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 Mail me: sadi1010011@gmail.com, WhatsApp: +91 8593022512
