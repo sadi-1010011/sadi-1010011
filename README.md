@@ -1,8 +1,9 @@
-- 👋 Hi, I’m sadi_q
+- 👋 Hi, I’m sadiq
 - 👀 I’m interested in collaborated working of software and hardware technologies
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on front-end development
-- 📫 Mail me: sadi1010011@gmail.com, WhatsApp: +91 8593022512
+- 🌱 I’m currently looking for MERN opening's.
+- 💞️ I’m looking to collaborate on front-end developments and open sources.
+- 📫 Mail me: sadi1010011@gmail.com, WhatsApp: +91 6238998062, +91 8593022512
+- social media: instagram.com/sadiqt_
 
 Learning, learingin learning. I can't Avoid.
 Because life is too short to waste..
